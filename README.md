@@ -2,7 +2,7 @@
 ### Quais Fatores Afetam os Preços de Computadores Portáteis?
 
 <div>
-    <img src="./images/Notebooks1.png" alt="Notebooks1" width="400"/>
+    <img src="./Images/Notebooks1.png" alt="Notebooks1" width="400"/>
 </div>
 
 > Vários fatores diferentes podem afetar os preços de computadores portáteis. Esses fatores incluem a **Marca e Opções**: A marca do computador e o número de opções e complementos incluídos no pacote do computador. Além disso, a quantidade de **Desempenho e Funcionalidade**: A memória e a velocidade do processador também podem afetar o preço. Embora menos comum, alguns consumidores gastam dinheiro adicional para comprar um computador com base no "visual" geral e no design do sistema.
