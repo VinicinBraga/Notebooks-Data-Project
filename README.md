@@ -10,3 +10,6 @@
 > Obtive esses dados do site [flipkart.com](https://www.flipkart.com/)
 > Usei uma ferramenta automatizada de extensão web do Chrome chamada Instant Data Scrapper
 > Recomendo muito que você use essa bela ferramenta para obter dados de qualquer lugar na web. É muito fácil de usar e não é necessário ter conhecimento em programação.
+
+### Análises:
+* Descritiva e Diagnóstica
